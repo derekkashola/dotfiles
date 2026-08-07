@@ -14,3 +14,8 @@ ADDITION: My local repo was divergent from Githubs. I had to merge, pull, and th
 ## 2026-06-21
 
 Updating this repo with packages.txt, which is a list of all installed packages for this install.
+
+
+## 2026-08-07
+
+Updated package list. I am currently taking a break from the roadmap to focus on school related things and Linux stuff, particularly RHCSA prep, along with the rest of my COMPTIA certs, of which I passed A+ Core 1 back in July with Core2 coming up on September 4th. 
